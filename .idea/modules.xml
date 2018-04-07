@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-ivr.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-ivr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-ivr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-ivr_main.iml" group="smart-ivr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smart-ivr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smart-ivr_test.iml" group="smart-ivr" />
+    </modules>
+  </component>
+</project>
