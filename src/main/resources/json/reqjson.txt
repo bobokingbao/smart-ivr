@@ -1,0 +1,5 @@
+测试,发送到web应用的json格式如下
+{"calleeid":"8200","callerid":"1011","callid":"ab3893de-8458-41f2-a151-f404dd10eff8","errorcode":"0","flowdata":"/","flowid":"","notify":"enter"}
+测试成功,我的web应用返回的字符串如下
+{"action":"start_asr","after_action":"playback","flowdata":"/","after_ignore_error":false,"params":{"min_speak_ms":100,"max_speak_ms":1000,"min_pause_ms":300,"max_pause_ms":600,"pause_play_ms":200,"threshold":0,"volume":50,"recordpath":""},"after_params":{"prompt":"北京合光人工智能机器人技术有限公司","wait":5000,"retry":0}}
+
